@@ -1,12 +1,5 @@
 {
   "players": {
-    "AngmarRoiSorcier": "Admin",
-    "Pseudo2": "Modérateur",
-    "Pseudo3": "Super-Modérateur",
-    "Pseudo4": "Responsable",
-    "Pseudo5": "Joueur",
-    "Pseudo6": "Légende",
-    "Pseudo7": "Héros",
-    "Pseudo8": "Élite"
+    "AngmarRoiSorcier": "Administrateur",
   }
 }
