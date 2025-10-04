@@ -1,5 +1,12 @@
 {
   "players": {
-    "AngmarRoiSorcier": "Administrateur",
+    "NainChiantos": "Admin",
+    "JoueurTest": "Joueur",
+    "ModTest": "Modérateur",
+    "SuperMod": "Super-Modérateur",
+    "Responsable1": "Responsable",
+    "LegendeX": "Légende",
+    "HerosY": "Héros",
+    "EliteZ": "Élite"
   }
 }
